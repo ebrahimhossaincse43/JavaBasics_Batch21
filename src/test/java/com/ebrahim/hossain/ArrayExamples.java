@@ -1,9 +1,8 @@
 package com.ebrahim.hossain;
 
-public class ArrayExamples {
-
+public class ArrayExamples{
+	
 	public static void main(String[] args) {
-		
 		//Data-Type[] array-name = {......}
 		String[] names= {"manazir", "kanak", "mehejabin", "fahim", "rahul"};
 		
